@@ -1,0 +1,5 @@
+mes = input('qual o més do seu aniversário? ')
+dia = input('do dia? ')
+ano = input('Em qual ano vocë nasceu? ')
+print('Ah vocë nasceu em', mes + '/' + dia + '/' + ano)
+print('Aware')
